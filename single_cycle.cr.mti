@@ -1,0 +1,25 @@
+C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_TB.v {1 {vlog -work work C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Single_Cycle_TB
+
+Top level modules:
+	Single_Cycle_TB
+
+} {} {}} C:/Users/Admin/Documents/HUST/KTMT/project1t/Register_tb.v {1 {vlog -work work C:/Users/Admin/Documents/HUST/KTMT/project1t/Register_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Decoder_tb.v {1 {vlog -work work C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Decoder_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_Decoder_tb
+
+Top level modules:
+	ALU_Decoder_tb
+
+} {} {}} C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Core_Datapath.v {1 {vlog -work work C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Core_Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Core_Datapath
+
+Top level modules:
+	Core_Datapath
+
+} {} {}}

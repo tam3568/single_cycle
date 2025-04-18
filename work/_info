@@ -1,0 +1,685 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 I2QA53WSn@Kj<TeORnnZFM2
+Z2 VA`>ko4]Q_jDBgNI>DC_K<1
+Z3 dC:\Users\Admin\Documents\HUST\KTMT\project1t
+Z4 w1744936053
+Z5 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU.v
+Z6 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU.v|
+Z9 o-work work -O0
+Z10 n@a@l@u
+Z11 !s100 BHJz8AWXG_<h^SBAHmizB2
+Z12 !s108 1744936339.388000
+Z13 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Decoder
+Z14 IQB52YGFFYHI6Lo0a`mbQE0
+Z15 VFR9eneM99MHOR6E3BD@O:0
+R3
+Z16 w1744936063
+Z17 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_decoder.v
+Z18 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_decoder.v
+L0 2
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_decoder.v|
+R9
+Z20 n@a@l@u_@decoder
+Z21 !s100 a7:_1a18MVohVn@k?V5im0
+Z22 !s108 1744936339.473000
+Z23 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Decoder_tb
+Z24 !s100 UBmCITn2Pg>UeOFBMQnkS3
+Z25 IECiMHGL?oiHc>R0CGOKPd0
+Z26 V<gE2eA@;@D;:j[faf^k@:0
+R3
+Z27 w1685709343
+Z28 8C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Decoder_tb.v
+Z29 FC:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Decoder_tb.v
+L0 2
+R7
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Decoder_tb.v|
+R9
+Z31 n@a@l@u_@decoder_tb
+Z32 !s108 1744936340.707000
+Z33 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Decoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Mux
+Z34 I2Bk6B2bMgeH@a9;TjkHc^2
+Z35 VU@_mmWlllf[R5ndjhN1lg3
+R3
+Z36 w1744936070
+Z37 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_Mux.v
+Z38 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_Mux.v
+L0 3
+R7
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_Mux.v|
+R9
+Z40 n@a@l@u_@mux
+Z41 !s100 57gY9@S;JgVNo<fJb:U8P0
+Z42 !s108 1744936339.557000
+Z43 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/ALU_Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Mux_tb
+Z44 IOlP4HVz?8nBVdz<FUPlVA3
+Z45 VELg;k<<SlY;RljL2eTEJ80
+R3
+Z46 w1744936186
+Z47 8C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Mux_tb.v
+Z48 FC:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Mux_tb.v
+L0 2
+R7
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Mux_tb.v|
+R9
+Z50 n@a@l@u_@mux_tb
+Z51 !s100 UQK1b6>3:XQMMPYKCNh7h3
+Z52 !s108 1744936340.776000
+Z53 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_Mux_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_tb
+Z54 IbY2<L40`hBZ4icdINAQMc0
+Z55 VE`_QLbcAmOeKZDFMXUl3B3
+R3
+Z56 w1744936199
+Z57 8C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_tb.v
+Z58 FC:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_tb.v
+L0 2
+R7
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_tb.v|
+R9
+Z60 n@a@l@u_tb
+Z61 !s100 Cg8Wj>iO`iLJPIgjh2PJU3
+Z62 !s108 1744936340.861000
+Z63 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/ALU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl_Unit
+Z64 ImL0]fPmTdFLfQHdzekDi32
+Z65 VQ`FH3E:QSh;o3IAVl]9o12
+R3
+Z66 w1744936080
+Z67 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Control_Unit.v
+Z68 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Control_Unit.v
+L0 2
+R7
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Control_Unit.v|
+R9
+Z70 n@control_@unit
+Z71 !s100 LCl:FlCfm^0jLcZAkdQ:A3
+Z72 !s108 1744936339.642000
+Z73 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Control_Unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl_Unit_tb
+Z74 IWJ[L0J>e9o1GhVXYknhAX2
+Z75 VMQ03belhNV;4fDSdJM6c`3
+R3
+Z76 w1744936206
+Z77 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Control_Unit_tb.v
+Z78 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Control_Unit_tb.v
+L0 3
+R7
+r1
+31
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Control_Unit_tb.v|
+R9
+Z80 n@control_@unit_tb
+Z81 !s100 l:J9cjQ_XE3gOmiM2VVIa1
+Z82 !s108 1744936340.945000
+Z83 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Control_Unit_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCore_Datapath
+Z84 !s100 VgQ>ikUg7JZnPcPD84VmB1
+Z85 IKjW5hQRNeoFg7XEFJMl_80
+Z86 V?c@m_YA[m9iDmzAZIz@?A0
+R3
+R27
+Z87 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Core_Datapath.v
+Z88 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Core_Datapath.v
+L0 24
+R7
+r1
+31
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Core_Datapath.v|
+R9
+Z90 n@core_@datapath
+Z91 !s108 1744936339.720000
+Z92 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Core_Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCore_Datapath_tb
+Z93 I52BM2aC^5f@B`W>V9aIb51
+Z94 Vbm6@YERLF?=C1^mgN;[ia1
+R3
+Z95 w1744936214
+Z96 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Core_Datapath_tb.v
+Z97 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Core_Datapath_tb.v
+L0 3
+R7
+r1
+31
+Z98 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Core_Datapath_tb.v|
+R9
+Z99 n@core_@datapath_tb
+Z100 !s100 ];R[UQozQSI==Dkl3Z0eC1
+Z101 !s108 1744936341.039000
+Z102 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Core_Datapath_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Memory
+Z103 IcTDYJXU2M[<N8hDCFio:`0
+Z104 VN432T2ni7X^FSSG]09LiQ1
+R3
+Z105 w1744936088
+Z106 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Data_Memory.v
+Z107 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Data_Memory.v
+L0 3
+R7
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Data_Memory.v|
+R9
+Z109 n@data_@memory
+Z110 !s100 mM304A03^QjFVY8aj7XMQ3
+Z111 !s108 1744936339.805000
+Z112 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Data_Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Memory_tb
+Z113 Ikfg=l]1GJ8oTzg<7`oN2M3
+Z114 VVb<Vi3EQ>=EmA1NU?Ua;_2
+R3
+Z115 w1744936222
+Z116 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Data_Memory_tb.v
+Z117 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Data_Memory_tb.v
+L0 3
+R7
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Data_Memory_tb.v|
+R9
+Z119 n@data_@memory_tb
+Z120 !s100 iVnR<=WPk6<Xo15M_0jPO0
+Z121 !s108 1744936341.124000
+Z122 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Data_Memory_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vExtend
+Z123 I]nHcBEb5L5nG>k[1>Q:Cm3
+Z124 VEO`N]fGm:jOR2ziG^Wii;2
+R3
+Z125 w1744936094
+Z126 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Extend.v
+Z127 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Extend.v
+L0 3
+R7
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Extend.v|
+R9
+Z129 n@extend
+Z130 !s100 QD`HljHfNU=;dZCIlQNKV2
+Z131 !s108 1744936339.889000
+Z132 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Extend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vExtend_tb
+Z133 IN`6ceOcT@fIe`DD4hYH9d1
+Z134 VYjffTe2gRoIJ8`04AF8C[0
+R3
+Z135 w1744936236
+Z136 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Extend_tb.v
+Z137 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Extend_tb.v
+L0 2
+R7
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Extend_tb.v|
+R9
+Z139 n@extend_tb
+Z140 !s100 C`C3JB?^2LG_SF5ZiBdeB1
+Z141 !s108 1744936341.209000
+Z142 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Extend_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstruction_Memory
+!i10b 1
+!s100 0<HLO8QUc1R?n_W:alP2g2
+IWD9mmPf^Ud<0mjEzc9;oN0
+Z143 VXc^ePloGZ^mMz9TF?m]N81
+R3
+w1744936104
+Z144 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory.v
+Z145 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1744936342.149000
+!s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory.v|
+Z146 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory.v|
+!s101 -O0
+R9
+Z147 n@instruction_@memory
+vInstruction_Memory_tb
+Z148 IYEe5@=SH?=7<g9f?Mz>5L1
+Z149 VLSgiO4;<mClSFBo0MH^Jc2
+R3
+Z150 w1744936244
+Z151 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory_tb.v
+Z152 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory_tb.v
+L0 3
+R7
+r1
+31
+Z153 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory_tb.v|
+R9
+Z154 n@instruction_@memory_tb
+Z155 !s100 YYQiThRFJm1iUWeI_[CR92
+Z156 !s108 1744936341.278000
+Z157 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Instruction_Memory_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMain_Decoder
+Z158 IHoFj`H[]BY@gYPJYLBije0
+Z159 VSZ:4Rh>ofl5H2RBGPU2cI0
+R3
+Z160 w1744936112
+Z161 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Main_Decoder.v
+Z162 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Main_Decoder.v
+L0 2
+R7
+r1
+31
+Z163 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Main_Decoder.v|
+R9
+Z164 n@main_@decoder
+Z165 !s100 Y2RIH1ME`[:N1Qb::XJj^2
+Z166 !s108 1744936339.958000
+Z167 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Main_Decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMain_Decoder_tb
+Z168 In@B2k3TFm`bI7:>lK[XN^1
+Z169 Vne=Q6WKnO`P]0kBAUKgPZ0
+R3
+Z170 w1744936251
+Z171 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Main_Decoder_tb.v
+Z172 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Main_Decoder_tb.v
+L0 3
+R7
+r1
+31
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Main_Decoder_tb.v|
+R9
+Z174 n@main_@decoder_tb
+Z175 !s100 h4ZO<9k:S]=4d[7ROn?aM1
+Z176 !s108 1744936341.362000
+Z177 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Main_Decoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z178 I;9[APmNXWCe_K`C0DO0Un0
+Z179 VJG81=H>A9aS1RkmD61aH81
+R3
+Z180 w1744936121
+Z181 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC.v
+Z182 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC.v
+L0 4
+R7
+r1
+31
+Z183 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC.v|
+R9
+n@p@c
+Z184 !s100 ?T7POMIEW65kg8QQHz>Zm1
+Z185 !s108 1744936340.043000
+Z186 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Mux
+Z187 IAQITgCL`F1<R_jbo1cNiX3
+Z188 V2oHE<GG@<Yzjfa[E4e2AS3
+R3
+Z189 w1744936128
+Z190 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Mux.v
+Z191 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Mux.v
+L0 3
+R7
+r1
+31
+Z192 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Mux.v|
+R9
+Z193 n@p@c_@mux
+Z194 !s100 A@4b;8CCc6?;Kf3hHoZ]o0
+Z195 !s108 1744936340.121000
+Z196 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Mux_tb
+Z197 IO6gIm1[G<@J<EYKb?QEl52
+Z198 VLlJ88nO]W>iiYiII5;5DN2
+R3
+Z199 w1744936258
+Z200 8C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Mux_tb.v
+Z201 FC:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Mux_tb.v
+L0 3
+R7
+r1
+31
+Z202 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Mux_tb.v|
+R9
+Z203 n@p@c_@mux_tb
+Z204 !s100 4@@bMBALDOg]6QM^mXPlb0
+Z205 !s108 1744936341.447000
+Z206 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Mux_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Plus_4
+Z207 IA]?Azd=jDAOGmg7_lXVbS2
+Z208 VLf6^HFlGV_cXL:PSn>WIY3
+R3
+Z209 w1744936134
+Z210 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Plus_4.v
+Z211 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Plus_4.v
+L0 3
+R7
+r1
+31
+Z212 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Plus_4.v|
+R9
+Z213 n@p@c_@plus_4
+Z214 !s100 GzGD[LB]]e^SGn34;jdB02
+Z215 !s108 1744936340.206000
+Z216 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Plus_4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Plus_4_tb
+Z217 Il8o=`MdSo_8<VZBn:on:k3
+Z218 V`J4eLJ[1=o9gB26zlH0gc1
+R3
+Z219 w1744936279
+Z220 8C:/Users/Admin/Documents/HUST/KTMT/project1t/PCPlus4_tb.v
+Z221 FC:/Users/Admin/Documents/HUST/KTMT/project1t/PCPlus4_tb.v
+L0 3
+R7
+r1
+31
+Z222 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/PCPlus4_tb.v|
+R9
+Z223 n@p@c_@plus_4_tb
+Z224 !s100 eg<V2Cb?I0=[>9<ImOjkS1
+Z225 !s108 1744936341.679000
+Z226 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/PCPlus4_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Target
+Z227 IJYcaQ<VMb7iTJcEi5EIMm0
+Z228 V^ZRTQeEmN?fkE8AZPQ<N:3
+R3
+Z229 w1744936145
+Z230 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Target.v
+Z231 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Target.v
+L0 3
+R7
+r1
+31
+Z232 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Target.v|
+R9
+Z233 n@p@c_@target
+Z234 !s100 dlzMaL1Y1RAX1cD9Me_7k2
+Z235 !s108 1744936340.291000
+Z236 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/PC_Target.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Target_tb
+Z237 IOcUUR3U8o3V^^RaY19h6f0
+Z238 VWD3@6J]fcC1:@QL@OE[>f1
+R3
+Z239 w1744936266
+Z240 8C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Target_tb.v
+Z241 FC:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Target_tb.v
+L0 3
+R7
+r1
+31
+Z242 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Target_tb.v|
+R9
+Z243 n@p@c_@target_tb
+Z244 !s100 AC9SA_hI2bJ_d:k_lA[eQ2
+Z245 !s108 1744936341.525000
+Z246 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_Target_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_tb
+Z247 ISd2F4diLSXI?JgBz`;LzX1
+Z248 VFCCkYk:f8eGJm;I:69VF<3
+R3
+Z249 w1744936272
+Z250 8C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_tb.v
+Z251 FC:/Users/Admin/Documents/HUST/KTMT/project1t/PC_tb.v
+L0 4
+R7
+r1
+31
+Z252 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_tb.v|
+R9
+Z253 n@p@c_tb
+Z254 !s100 mU]YPkzYdD7mR7]9X6L<A2
+Z255 !s108 1744936341.594000
+Z256 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/PC_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_File
+Z257 I`QC8X@8m`PoHXGU]3Bm6f2
+Z258 V6i6MDL:Ja[:z<7OaMooSo0
+R3
+Z259 w1744936152
+Z260 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Register_File.v
+Z261 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Register_File.v
+L0 3
+R7
+r1
+31
+Z262 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Register_File.v|
+R9
+Z263 n@register_@file
+Z264 !s100 ;OS_=WbHIMRPY]W19F;=i1
+Z265 !s108 1744936340.375000
+Z266 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Register_File.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_File_tb
+Z267 I:TJDE2oJ>[iT08lO?Q<lC0
+Z268 Vg_1izMFbHI=ZNWBgMaRLA3
+R3
+Z269 w1744936291
+Z270 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Register_File_tb.v
+Z271 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Register_File_tb.v
+L0 3
+R7
+r1
+31
+Z272 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Register_File_tb.v|
+R9
+Z273 n@register_@file_tb
+Z274 !s100 ;8Mj]G>9c2GeA8EZHHEHL1
+Z275 !s108 1744936341.763000
+Z276 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Register_File_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vResult_Mux
+Z277 IK0gZEa6l?A3Q5C7O=e@2^1
+Z278 V9m5CMNS1744P>9?@J=HQ81
+R3
+Z279 w1744936159
+Z280 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Result_Mux.v
+Z281 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Result_Mux.v
+L0 3
+R7
+r1
+31
+Z282 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Result_Mux.v|
+R9
+Z283 n@result_@mux
+Z284 !s100 e<<IIX]FED`jKA7<0j<dV0
+Z285 !s108 1744936340.460000
+Z286 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Result_Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vResult_Mux_tb
+Z287 I0<>@`RZ=AfooOe0Z@EPMB1
+Z288 V?4ZNP9SahUmb]9Z8n8l:50
+R3
+Z289 w1744936304
+Z290 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Result_Mux_tb.v
+Z291 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Result_Mux_tb.v
+L0 3
+R7
+r1
+31
+Z292 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Result_Mux_tb.v|
+R9
+Z293 n@result_@mux_tb
+Z294 !s100 Hdf7cg0fi9aYW=E@<2[XP2
+Z295 !s108 1744936341.895000
+Z296 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Result_Mux_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSingle_Cycle_Core
+Z297 IM]?Q@zbQNHmO4>hWZ]JbH3
+Z298 V^LB?O]lgD3=KVaWA@OLYh3
+R3
+Z299 w1744936166
+Z300 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Core.v
+Z301 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Core.v
+L0 3
+R7
+r1
+31
+Z302 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Core.v|
+R9
+Z303 n@single_@cycle_@core
+Z304 !s100 5:YEcDbTD2J^FSLUIIIoW0
+Z305 !s108 1744936340.544000
+Z306 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Core.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSingle_Cycle_Core_tb
+Z307 IS5hG3F5Mf::l^Q69i=l021
+Z308 Vb@:H1JIJQMX46h6z2fBQC3
+R3
+Z309 w1744936311
+Z310 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_Core_tb.v
+Z311 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_Core_tb.v
+L0 3
+R7
+r1
+31
+Z312 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_Core_tb.v|
+R9
+Z313 n@single_@cycle_@core_tb
+Z314 !s100 gH]PQeLDhRh21[SoS[>^=2
+Z315 !s108 1744936341.980000
+Z316 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_Core_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSingle_Cycle_TB
+Z317 !s100 gSNz>F[5?zFPPH7W[b_ba0
+Z318 I=T]7=`EO^nc9bf6aDQ4I=1
+Z319 Vj0TU^X:1`FjL`mFJ7UOBP2
+R3
+R27
+Z320 8C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_TB.v
+Z321 FC:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_TB.v
+L0 5
+R7
+r1
+31
+Z322 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_TB.v|
+R9
+Z323 n@single_@cycle_@t@b
+!i10b 1
+!s85 0
+Z324 !s108 1744936342.049000
+Z325 !s107 C:/Users/Admin/Documents/HUST/KTMT/project1t/Single_Cycle_TB.v|
+!s101 -O0
+vSingle_Cycle_Top
+Z326 I:IR;C]iYJMg150goM[Tdi0
+Z327 V6?`QTI:2jX:f9g^Ke_[WM3
+R3
+Z328 w1744936174
+Z329 8C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Top.v
+Z330 FC:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Top.v
+L0 3
+R7
+r1
+31
+Z331 !s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Top.v|
+R9
+Z332 n@single_@cycle_@top
+Z333 !s100 ShW41HgLGE[bZeiIeEY6<3
+Z334 !s108 1744936340.623000
+Z335 !s107 C:/Users/Admin/Downloads/RISC_V_Single_Cycle_Processor-main/RISC_V_Single_Cycle_Processor-main/rtl/Single_Cycle_Top.v|
+!i10b 1
+!s85 0
+!s101 -O0
